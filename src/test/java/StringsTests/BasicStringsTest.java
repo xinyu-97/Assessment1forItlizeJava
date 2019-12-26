@@ -5,8 +5,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-// If I was Leon, you wouldn't be allowed to change the tests.
-// I'm not.
+
 
 public class BasicStringsTest {
     private BasicStrings basicStrings;
