@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76efec68-7a53-41b9-a76c-3ac86bff763c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VOCFcXD3VGxyO4IOl1bfR8vpCC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551591891369" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="DansDilemma" />
+      <recent name="Collections" />
+      <recent name="Strings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Assessment2Sunday">
+    <configuration name="All in Assessment2Sunday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPracticeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment2Sunday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment2Sunday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTests.crazySpiralTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment2Sunday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
+      <option name="METHOD_NAME" value="crazySpiralTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTests.crazySpiralTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment2Sunday" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
+      <option name="METHOD_NAME" value="crazySpiralTest5" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Assessment2Sunday" />
+        <item itemvalue="JUnit.MapPracticeTests" />
+        <item itemvalue="JUnit.MapTests.crazySpiralTest3" />
+        <item itemvalue="JUnit.MapTests.crazySpiralTest5" />
+        <item itemvalue="JUnit.MapTests" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76efec68-7a53-41b9-a76c-3ac86bff763c" name="Default Changelist" comment="" />
+      <created>1551486102817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551486102817</updated>
+      <workItem from="1551486106230" duration="18884000" />
+      <workItem from="1551581971458" duration="7198000" />
+      <workItem from="1577114653492" duration="658000" />
+      <workItem from="1577379235787" duration="446000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="485" y="75" key="#All_in_Assessment2Sunday" timestamp="1577115036817">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="485" y="75" key="#All_in_Assessment2Sunday/0.23.1440.836@0.23.1440.836" timestamp="1577115036817" />
+    <state width="1396" height="215" key="GridCell.Tab.0.bottom" timestamp="1577115474888">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="215" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
+    <state width="1396" height="215" key="GridCell.Tab.0.center" timestamp="1577115474888">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="215" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
+    <state width="1396" height="215" key="GridCell.Tab.0.left" timestamp="1577115474887">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="215" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1577115474887" />
+    <state width="1396" height="215" key="GridCell.Tab.0.right" timestamp="1577115474888">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state width="1396" height="215" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
+    <state x="501" y="181" width="837" height="540" key="find.popup" timestamp="1577115172532">
+      <screen x="0" y="23" width="1440" height="836" />
+    </state>
+    <state x="501" y="181" width="837" height="540" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1577115172532" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java</url>
+          <line>78</line>
+          <properties class="StringsTests.BasicStringsTest" method="iCantSeeTest1">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java</url>
+          <line>10</line>
+          <properties class="Collections.MapPractice" method="findKeysOf">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java</url>
+          <line>12</line>
+          <properties class="DansDilemma.DansDilemma" method="dilemmaOfN">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
