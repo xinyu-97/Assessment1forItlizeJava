@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76efec68-7a53-41b9-a76c-3ac86bff763c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/ArrayListsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CollectionsTests/MapPracticeTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Collections/MapPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/MapPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/DansDilemma/DansDilemma.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/DansDilemma/DansDilemma.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Strings/BasicStrings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Strings/BasicStrings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CollectionsTests/ArrayListsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CollectionsTests/ArrayListsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CollectionsTests/MapPracticeTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CollectionsTests/MapPracticeTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DansDilemmaTests/DansDilemmaTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DansDilemmaTests/DansDilemmaTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/StringsTests/BasicStringsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/StringsTests/BasicStringsTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +44,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551591891369" />
@@ -56,22 +66,24 @@
       <recent name="Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.All in Assessment2Sunday">
-    <configuration name="All in Assessment2Sunday" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <option name="PARAMETERS" value="" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="wholeProject" />
-      </option>
+  <component name="RunManager" selected="JUnit.MapPracticeTests.findKeysOfTest3">
+    <configuration name="ArrayListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment1forItlizeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.ArrayListsTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapPracticeTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assessment2Sunday" />
+    <configuration name="MapPracticeTests.findKeysOfTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment1forItlizeJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CollectionsTests.*" />
@@ -80,44 +92,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="CollectionsTests" />
       <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assessment2Sunday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapTests.crazySpiralTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assessment2Sunday" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
-      <option name="METHOD_NAME" value="crazySpiralTest3" />
+      <option name="METHOD_NAME" value="findKeysOfTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapTests.crazySpiralTest5" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assessment2Sunday" />
+    <configuration name="MapPracticeTests.findKeysOfTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment1forItlizeJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="CollectionsTests.*" />
@@ -125,8 +107,40 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapTests" />
-      <option name="METHOD_NAME" value="crazySpiralTest5" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
+      <option name="METHOD_NAME" value="findKeysOfTest2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPracticeTests.findKeysOfTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment1forItlizeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
+      <option name="METHOD_NAME" value="findKeysOfTest3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapPracticeTests.findValueOfTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment1forItlizeJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="CollectionsTests" />
+      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
+      <option name="METHOD_NAME" value="findValueOfTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in Assessment2Sunday" />
-        <item itemvalue="JUnit.MapPracticeTests" />
-        <item itemvalue="JUnit.MapTests.crazySpiralTest3" />
-        <item itemvalue="JUnit.MapTests.crazySpiralTest5" />
-        <item itemvalue="JUnit.MapTests" />
+        <item itemvalue="JUnit.MapPracticeTests.findKeysOfTest3" />
+        <item itemvalue="JUnit.MapPracticeTests.findKeysOfTest2" />
+        <item itemvalue="JUnit.MapPracticeTests.findKeysOfTest1" />
+        <item itemvalue="JUnit.MapPracticeTests.findValueOfTest1" />
+        <item itemvalue="JUnit.ArrayListsTest" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +182,7 @@
       <workItem from="1551581971458" duration="7198000" />
       <workItem from="1577114653492" duration="658000" />
       <workItem from="1577379235787" duration="446000" />
+      <workItem from="1578427331551" duration="3791000" />
     </task>
     <servers />
   </component>
@@ -179,21 +194,33 @@
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="485" y="75" key="#All_in_Assessment2Sunday/0.23.1440.836@0.23.1440.836" timestamp="1577115036817" />
-    <state width="1396" height="215" key="GridCell.Tab.0.bottom" timestamp="1577115474888">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state x="295" y="111" key="#MapPracticeTests" timestamp="1578428236375">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="295" y="111" key="#MapPracticeTests/0.0.1440.900@0.0.1440.900" timestamp="1578428236375" />
+    <state x="269" y="50" key="CommitChangelistDialog2" timestamp="1578442908410">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="269" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1578442908410" />
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom" timestamp="1578442908494">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578442908494" />
     <state width="1396" height="215" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
-    <state width="1396" height="215" key="GridCell.Tab.0.center" timestamp="1577115474888">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state width="1440" height="252" key="GridCell.Tab.0.center" timestamp="1578442908490">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578442908490" />
     <state width="1396" height="215" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
-    <state width="1396" height="215" key="GridCell.Tab.0.left" timestamp="1577115474887">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state width="1440" height="252" key="GridCell.Tab.0.left" timestamp="1578442908488">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578442908488" />
     <state width="1396" height="215" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1577115474887" />
-    <state width="1396" height="215" key="GridCell.Tab.0.right" timestamp="1577115474888">
-      <screen x="0" y="23" width="1440" height="836" />
+    <state width="1440" height="252" key="GridCell.Tab.0.right" timestamp="1578442908492">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1440" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578442908492" />
     <state width="1396" height="215" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
     <state x="501" y="181" width="837" height="540" key="find.popup" timestamp="1577115172532">
       <screen x="0" y="23" width="1440" height="836" />
@@ -206,18 +233,10 @@
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java</url>
           <line>78</line>
-          <properties class="StringsTests.BasicStringsTest" method="iCantSeeTest1">
+          <properties class="StringsTests.BasicStringsTest">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Collections/MapPractice.java</url>
-          <line>10</line>
-          <properties class="Collections.MapPractice" method="findKeysOf">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java</url>
