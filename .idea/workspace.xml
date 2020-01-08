@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="76efec68-7a53-41b9-a76c-3ac86bff763c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/ArrayLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Collections/MapPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings/BasicStrings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/ArrayLists.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Collections/MapPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Collections/MapPractice.class" afterDir="false" />
@@ -57,7 +60,10 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -66,81 +72,73 @@
       <recent name="Strings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.MapPracticeTests.findKeysOfTest3">
-    <configuration name="ArrayListsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.All in Assessment1forItlizeJava">
+    <configuration name="All in Assessment1forItlizeJava" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Assessment1forItlizeJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DansDilemmaTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment1forItlizeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="PATTERN" value="DansDilemmaTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.ArrayListsTest" />
+      <option name="PACKAGE_NAME" value="DansDilemmaTests" />
+      <option name="MAIN_CLASS_NAME" value="DansDilemmaTests.DansDilemmaTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapPracticeTests.findKeysOfTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DansDilemmaTests.dilemmaOfThreeDoubleTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment1forItlizeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="PATTERN" value="DansDilemmaTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
-      <option name="METHOD_NAME" value="findKeysOfTest1" />
+      <option name="PACKAGE_NAME" value="DansDilemmaTests" />
+      <option name="MAIN_CLASS_NAME" value="DansDilemmaTests.DansDilemmaTests" />
+      <option name="METHOD_NAME" value="dilemmaOfThreeDoubleTest1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapPracticeTests.findKeysOfTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DansDilemmaTests.dilemmaOfThreeDoubleTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment1forItlizeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="PATTERN" value="DansDilemmaTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
-      <option name="METHOD_NAME" value="findKeysOfTest2" />
+      <option name="PACKAGE_NAME" value="DansDilemmaTests" />
+      <option name="MAIN_CLASS_NAME" value="DansDilemmaTests.DansDilemmaTests" />
+      <option name="METHOD_NAME" value="dilemmaOfThreeDoubleTest2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapPracticeTests.findKeysOfTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DansDilemmaTests.dilemmaOfThreeDoubleTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Assessment1forItlizeJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
+          <option name="PATTERN" value="DansDilemmaTests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
-      <option name="METHOD_NAME" value="findKeysOfTest3" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapPracticeTests.findValueOfTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Assessment1forItlizeJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionsTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="CollectionsTests" />
-      <option name="MAIN_CLASS_NAME" value="CollectionsTests.MapPracticeTests" />
-      <option name="METHOD_NAME" value="findValueOfTest1" />
+      <option name="PACKAGE_NAME" value="DansDilemmaTests" />
+      <option name="MAIN_CLASS_NAME" value="DansDilemmaTests.DansDilemmaTests" />
+      <option name="METHOD_NAME" value="dilemmaOfThreeDoubleTest3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -148,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MapPracticeTests.findKeysOfTest3" />
-        <item itemvalue="JUnit.MapPracticeTests.findKeysOfTest2" />
-        <item itemvalue="JUnit.MapPracticeTests.findKeysOfTest1" />
-        <item itemvalue="JUnit.MapPracticeTests.findValueOfTest1" />
-        <item itemvalue="JUnit.ArrayListsTest" />
+        <item itemvalue="JUnit.All in Assessment1forItlizeJava" />
+        <item itemvalue="JUnit.DansDilemmaTests" />
+        <item itemvalue="JUnit.DansDilemmaTests.dilemmaOfThreeDoubleTest3" />
+        <item itemvalue="JUnit.DansDilemmaTests.dilemmaOfThreeDoubleTest2" />
+        <item itemvalue="JUnit.DansDilemmaTests.dilemmaOfThreeDoubleTest1" />
       </list>
     </recent_temporary>
   </component>
@@ -183,6 +181,7 @@
       <workItem from="1577114653492" duration="658000" />
       <workItem from="1577379235787" duration="446000" />
       <workItem from="1578427331551" duration="3791000" />
+      <workItem from="1578443386377" duration="5829000" />
     </task>
     <servers />
   </component>
@@ -198,82 +197,66 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="295" y="111" key="#MapPracticeTests/0.0.1440.900@0.0.1440.900" timestamp="1578428236375" />
-    <state x="269" y="50" key="CommitChangelistDialog2" timestamp="1578442908410">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1578449132704">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1578449132704" />
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1578443726438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="410" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578443726438" />
+    <state x="540" y="176" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1578443649645">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="176" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578443649645" />
+    <state x="359" y="58" key="CommitChangelistDialog2" timestamp="1578450323129">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="269" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1578442908410" />
-    <state width="1440" height="252" key="GridCell.Tab.0.bottom" timestamp="1578442908494">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="359" y="58" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1578450323129" />
+    <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1578443747036">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="276" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1578443747036" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1578450385392">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1440" height="252" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578442908494" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1578450385392" />
     <state width="1396" height="215" key="GridCell.Tab.0.bottom/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
-    <state width="1440" height="252" key="GridCell.Tab.0.center" timestamp="1578442908490">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1578450385392">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1440" height="252" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578442908490" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1578450385392" />
     <state width="1396" height="215" key="GridCell.Tab.0.center/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
-    <state width="1440" height="252" key="GridCell.Tab.0.left" timestamp="1578442908488">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1578450385392">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1440" height="252" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578442908488" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1578450385392" />
     <state width="1396" height="215" key="GridCell.Tab.0.left/0.23.1440.836@0.23.1440.836" timestamp="1577115474887" />
-    <state width="1440" height="252" key="GridCell.Tab.0.right" timestamp="1578442908492">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1578450385392">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1440" height="252" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578442908492" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1578450385392" />
     <state width="1396" height="215" key="GridCell.Tab.0.right/0.23.1440.836@0.23.1440.836" timestamp="1577115474888" />
+    <state x="772" y="117" key="SettingsEditor" timestamp="1578445960357">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="117" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578445960357" />
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1578443390145">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578443390145" />
     <state x="501" y="181" width="837" height="540" key="find.popup" timestamp="1577115172532">
       <screen x="0" y="23" width="1440" height="836" />
     </state>
     <state x="501" y="181" width="837" height="540" key="find.popup/0.23.1440.836@0.23.1440.836" timestamp="1577115172532" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/test/java/StringsTests/BasicStringsTest.java</url>
-          <line>78</line>
-          <properties class="StringsTests.BasicStringsTest">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/DansDilemma/DansDilemma.java</url>
-          <line>12</line>
-          <properties class="DansDilemma.DansDilemma" method="dilemmaOfN">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>10</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ScopeChooserConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1578445908414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1578445908414" />
   </component>
 </project>

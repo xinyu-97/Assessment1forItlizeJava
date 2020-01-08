@@ -31,6 +31,9 @@ public class BasicStrings {
             else if(Character.isLowerCase(string.charAt(i))){
                 str += Character.toUpperCase(string.charAt(i));
             }
+            else{
+                str += string.charAt(i);
+            }
         }
         return str;
     }
@@ -38,6 +41,20 @@ public class BasicStrings {
     public String oneAtATime(String string1, String string2) {
         int i1 = 0;
         int i2 = 0;
+        StringBuilder sb = new StringBuilder();
+        while(i1 < string1.length() && i2 < string2.length()){
+            sb.append(string1.charAt(i1));
+            sb.append(string2.charAt(i2));
+            i1++;
+            i2++;
+        }
+        if(i1 == string1.length()){
+            sb.append(string2.substring(i2));
+        }
+        else if(i2 == string2.length()){
+            sb.append(string1.substring(i1));
+        }
 
+        return sb.toString();
     }
 }

@@ -3,6 +3,7 @@ package Collections;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.TreeMap;
 
 public class MapPractice {
 
@@ -23,10 +24,40 @@ public class MapPractice {
     }
 
     public Map<Integer, Integer> fibonacciTree(int size) {
-        return null;
+        Map<Integer, Integer> map = new TreeMap<>();
+        if(size == 0){
+            return map;
+        }
+        map.put(1, 1);
+        if(size == 1){
+            return map;
+        }
+        map.put(2, 1);
+        if(size == 2){
+            return map;
+        }
+        for(int i = 3; i <= size; i++){
+            map.put(i, map.get(i - 1) + map.get(i - 2));
+        }
+        return map;
     }
 
     public Map<Integer, Integer> crazySpiral(Integer first, Integer second, Integer size) {
-        return null;
+        Map<Integer, Integer> map = new TreeMap<>();
+        if(size == 0){
+            return map;
+        }
+        map.put(1, first);
+        if(size == 1){
+            return map;
+        }
+        map.put(2, second);
+        if(size == 2){
+            return map;
+        }
+        for(int i = 3; i <= size; i++){
+            map.put(i, map.get(i - 1) + map.get(i - 2));
+        }
+        return map;
     }
 }

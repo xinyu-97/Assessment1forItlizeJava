@@ -35,7 +35,19 @@ public class ArrayLists {
     }
 
     public boolean happyList(ArrayList<String> original) {
-    	
-        return false;
+    	for(int i = 0; i < original.size() - 1; i++){
+    	    boolean happy = false;
+    	    for(int j = 0; j < original.get(i).length(); j++){
+    	        char c = original.get(i).charAt(j);
+    	        if(original.get(i + 1).indexOf(c) != -1){
+                    happy = true;
+                    break;
+                }
+            }
+    	    if(!happy){
+    	        return false;
+            }
+        }
+        return true;
     }
 }
